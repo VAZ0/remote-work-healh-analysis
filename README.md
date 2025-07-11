@@ -4,5 +4,3 @@
 ## Ключевые выводы
 1.Где самый высокий уровень выгорания?
 <img width="279" height="182" alt="image" src="https://github.com/user-attachments/assets/f914b2e4-2bec-4979-822e-05100057cdca" />
-2.
-
