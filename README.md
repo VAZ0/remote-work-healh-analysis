@@ -20,7 +20,8 @@
 ## Результаты и шаги анализа 
 1.Построена сводная таблицы:
 
-<img width="672" height="719" alt="image" src="https://github.com/user-attachments/assets/3f518434-5f5c-4897-9a73-1f1622b1c877" />
+<img width="531" height="207" alt="image" src="https://github.com/user-attachments/assets/aa79be9f-c080-47db-bef7-efe15981690a" />
+
 
 2.Построена диаграмма:
 
