@@ -30,7 +30,8 @@
 
 3.Построены диаграмма  и график на основе сводной таблицы:
 
-<img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/f3ca0e0e-993a-4709-b09b-0cf00b7490e1" />
+<img width="480" height="293" alt="image" src="https://github.com/user-attachments/assets/b5b73b47-fa83-45d8-b467-3d0245e21b94" />
+
 <img width="407" height="282" alt="image" src="https://github.com/user-attachments/assets/5a917d06-1892-4552-a342-17448534645a" />
 
 **Найдено:**
@@ -79,12 +80,15 @@ Work-Life Balance у мужчин в среднем=2,97 из 5
 
 <img width="356" height="121" alt="image" src="https://github.com/user-attachments/assets/436edbfa-d22c-4865-89b9-5c97281b1a14" />
 
-3.Построена круговая диаграмма
+3.Построена диаграмма
 
-<img width="453" height="235" alt="image" src="https://github.com/user-attachments/assets/a6ccb67b-616c-4fab-b4f0-7e1d8145f747" />
+<img width="496" height="294" alt="image" src="https://github.com/user-attachments/assets/66d9a28d-9613-4465-aed2-f156c3e112f1" />
+
 
 
 **Найдено:**
+
+У всех возрастных групп большая часть жалоб на : `Back Pain`,`Shoulder Pain`,`Eye Strain`
 
 В возрасте 62-71 лет жалоб на здоровье примерно в 2,5 раза меньше,чем у младших групп.
 
