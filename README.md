@@ -25,9 +25,11 @@
 <img width="424" height="142" alt="image" src="https://github.com/user-attachments/assets/149de373-4280-4bf4-957c-f3327aaafda3" />
 
 
-2.Построена диаграмма на основе сводной таблицы:
+2.Построены диаграмма  и график на основе сводной таблицы:
 
 <img width="481" height="289" alt="image" src="https://github.com/user-attachments/assets/f3ca0e0e-993a-4709-b09b-0cf00b7490e1" />
+<img width="407" height="282" alt="image" src="https://github.com/user-attachments/assets/5a917d06-1892-4552-a342-17448534645a" />
+
 
 
 ## Результат и рекомендации:
@@ -39,7 +41,7 @@
 
 - Внедрить **мониторинг нагрузки** для всех, кто работает >45 часов
 
-- Группе 550-65ч предоставлять дополнительный выходной день  
+- Группе 55-65ч предоставлять дополнительный выходной день  
 
 
 
